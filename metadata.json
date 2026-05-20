@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Mensalidades",
+  "description": "Aplicativo para gerenciar mensalistas, pagamentos, serviços, mensagens de cobrança e controle financeiro integrado.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
